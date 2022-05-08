@@ -4,4 +4,4 @@
 
 3. При написании проекта, я использовал следующие технологии: HTML, CSS, flex, Grid, технологию БЭМа, а так же figma.
 
-4. Ссылка на проект в Git: https://github.com/KiRiSh92/Russian-travel-1-
+4. Ссылка на проект в Git: https://github.com/KiRiSh92/Russian-travel
