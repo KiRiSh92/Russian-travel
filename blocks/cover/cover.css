@@ -6,7 +6,6 @@
   background-size: cover;
   position: relative;
   justify-content: center;
-  width: calc(100% - 2 * 48px);
 }
 
 .cover::before {
@@ -23,22 +22,21 @@
   opacity: .8;
 }
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1280px) {
   .cover {
     margin: 92px 0 0 0;
-    width: 100%;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .cover {
+    margin: 90px 0 0 0;
   }  
 }
 
-@media screen and (max-width: 1023px) {
-  .cover {
-    margin-top: 90px;
-  }
-}
 
 
 @media screen and (max-width: 768px) {
   .cover {
-    margin-top: 66px;
+    margin: 66px 0 0 0;
   }
 }

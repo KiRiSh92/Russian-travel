@@ -7,12 +7,17 @@
 
 }
 
+.header__lang-link:hover {
+  opacity: .8;
+  transition: opacity .8s linear;
+}
+
 .header__lang-link:active {
   text-decoration: underline;
 }
 
-@media screen and (max-width: 767px) {
-  .header {
+@media screen and (max-width: 768px) {
+  .header__lang-link {
     font-size: 18px;
     line-height: 20px;
   }

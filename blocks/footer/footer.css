@@ -3,21 +3,19 @@
   margin: 92px 48px 24px;
   justify-content: space-between;
   padding: 0;
-  max-height: 18px;
 }
 
 
-@media screen and (max-width: 1023px) {
+@media screen and (max-width: 1024px) {
   .footer {
     margin: 82px 24px 24px 24px;
   }
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
   .footer{
     margin: 64px auto 24px 16px;
     flex-direction: column;
-    gap: 42px;
     max-height: max-content;
     max-width: max-content;
   }  
