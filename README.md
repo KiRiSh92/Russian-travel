@@ -17,4 +17,4 @@
     * Git
     * Figma
 
-## gh-pages проекта: https://github.com/KiRiSh92/Russian-travel.git
+## gh-pages проекта: https://kirish92.github.io/Russian-travel/
